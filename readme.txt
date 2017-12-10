@@ -1,2 +1,2 @@
 git is free software
-zhanjian
+zhanjian.
